@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Subodh-Hub/React-To-Do-List.git/static/css/main.6342ffc8.css",
-    "main.js": "/Subodh-Hub/React-To-Do-List.git/static/js/main.8831a97f.js",
+    "main.js": "/Subodh-Hub/React-To-Do-List.git/static/js/main.ef5708c4.js",
     "index.html": "/Subodh-Hub/React-To-Do-List.git/index.html",
     "main.6342ffc8.css.map": "/Subodh-Hub/React-To-Do-List.git/static/css/main.6342ffc8.css.map",
-    "main.8831a97f.js.map": "/Subodh-Hub/React-To-Do-List.git/static/js/main.8831a97f.js.map"
+    "main.ef5708c4.js.map": "/Subodh-Hub/React-To-Do-List.git/static/js/main.ef5708c4.js.map"
   },
   "entrypoints": [
     "static/css/main.6342ffc8.css",
-    "static/js/main.8831a97f.js"
+    "static/js/main.ef5708c4.js"
   ]
 }
